@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects on Android**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mayankharer](https://github.com/mayankharer)
+- 👨‍💻 All of my projects are available at (https://github.com/mayankharer)
 
 - 📫 How to reach me **mayankharer8@gmail.com**
 
